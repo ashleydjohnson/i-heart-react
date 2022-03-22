@@ -1,3 +1,9 @@
+# Instructor says to delete everything the react app added (everything down below) and add my own content.
+
+# This is what will be seen on github 
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
